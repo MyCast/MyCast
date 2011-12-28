@@ -1,0 +1,53 @@
+/* 
+ localizable.strings
+ MyCast
+ 
+ Created by Jannes Klaas on 27.11.11.
+ Copyright (c) 2011 JannesCode. All rights reserved.
+ */
+
+
+//Mail
+
+"Abgebrochen" = "Cancel";
+"Schade, dass du den Podcast nicht weitergeben willst" = "Sorry that you don´t want to share the Podcast";
+
+"Gespeichert" = "Saved";
+"Deine Mail wurde in den Entwürfen gespeichert" = "Your mail was saved in Drafts";
+
+"Versand" = "Send";
+"Deine Mail wurde erfolgreich verschickt" = "Your mail was send successfully";
+
+"Fehler" = "Error";
+"Leider ist irgendetwas schief gelaufen" = "Something went wrong";
+
+"Nicht gesendet" = "Not send";
+
+"Weitersagen" = "Share";
+
+
+//CastView
+
+
+"Keine Daten" = "No Data";
+"Es gibt weder Internet noch gespeicherte Daten" = "There is no internet and no cached data";
+
+"Erfolg!" = "Success!";
+"Die Folge wurde erfolgreich runtergeladen!" = "The episode is now on your device";
+
+"Herzlich Willkommen!" = "Welcome!";
+"Das Team wünscht dir viel Spaß mit dieser App!" = "The %@ Team wishes you a lot of fun with this App!";
+
+"Kein Name" = "No Name";
+
+"Keine Beschreibung verfügbar" = "No description available";
+
+//DatailView
+
+"Kein Internet" = "No Internet";
+"Du kannst leider nur schon geladene Folgen ansehen" = "You can only see downloaded episodes";
+
+"Laden" = "Load";
+"Streamen" = "Stream";
+"Abbrechen" = "Cancel";
+
